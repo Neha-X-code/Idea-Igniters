@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "Misleading Medicine Article Detector",
+  "name": "Misleading Medical Article Detector",
   "version": "1.0",
   "description": "Detects misleading medicine articles",
   "permissions": ["scripting", "activeTab"],
