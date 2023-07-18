@@ -1,7 +1,7 @@
 # Idea-Igniters
 This chrome extension detects misleading medical articles.
 
-It utilizes natural language processing techniques and machine learning to analyze the content of medical articles and provide a prediction on their authenticity.
+It utilizes NLP and ML to analyze the content of medical articles and provide a prediction on their authenticity.
 
 <strong>Features</strong><br>
 Trains a logistic regression model on a dataset of real and fake medical articles.
