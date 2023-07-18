@@ -3,7 +3,7 @@ This chrome extension detects misleading medical articles.
 
 It utilizes natural language processing techniques and machine learning to analyze the content of medical articles and provide a prediction on their authenticity.
 
-Features
+Features<br>
 Trains a logistic regression model on a dataset of real and fake medical articles.
 Allows users to enter a medical article headline and receive a prediction on its authenticity.
 
